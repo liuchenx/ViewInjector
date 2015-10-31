@@ -1,0 +1,1 @@
+include ':viewinjector', ':sample', ':viewinjector-annotation', ':viewinjector-compiler'
